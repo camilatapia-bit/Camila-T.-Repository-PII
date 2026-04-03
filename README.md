@@ -1,3 +1,4 @@
-Readme
+# Readme
 
-Este es un proyecto de Procesos de Innovación de Ingeniería
+#### Este es un repositorio de Procesos de Innovación de Ingeniería.
+ > Camila Tapia
